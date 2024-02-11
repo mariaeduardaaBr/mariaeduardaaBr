@@ -16,5 +16,7 @@
   <a href="https://www.linkedin.com/in/maria-eduarda-nascimento-correia-01b8541a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariaeduardaaBr&bg_color=e5cdd8&color=9e4c98&line=9e4c98&point=57dbd9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #
 📚  Estudante organizada, criativa e fascinada em novos aprendizados. Sempre em busca de adquirir e compartilhar novos conhecimentos.
