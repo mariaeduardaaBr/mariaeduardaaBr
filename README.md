@@ -5,17 +5,21 @@
 ##
 
 
-  <table>
-  <a href="https://github.com/mariaeduardaaBr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardaaBr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
-   ![download20240204105008](https://github.com/mariaeduardaaBr/mariaeduardaaBr/assets/142453784/5300630c-2b62-4f17-a8c6-e7ec44c8e6ad)
-    
-<div> 
-  <a href="https://www.instagram.com/dudawfx?igsh=dXF2Y2V1bGo5cmhm&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/maria-eduarda-nascimento-correia-01b8541a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaeduardaaBr&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaaBr&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+
+<div align="center"> 
+<a href="https://www.instagram.com/dudawfx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:dudamanda05@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/maria-eduarda-nascimento-correia-01b8541a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+
+    
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariaeduardaaBr&bg_color=e5cdd8&color=9e4c98&line=9e4c98&point=57dbd9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #
