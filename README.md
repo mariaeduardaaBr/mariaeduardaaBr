@@ -1,28 +1,43 @@
-
-
-# Hello World, I'm Maria Eduarda, be very welcome :)
-🌱 Aluna de Engenharia da Computação Universidade Vale do Paraíba | Técnico em Informática 
-
-📚  Estudante organizada, criativa e fascinada em novos aprendizados. Sempre em busca de adquirir e compartilhar novos conhecimentos.
-##
-
-<div align="left"> 
-<a href="https://www.instagram.com/dudawfx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:dudamanda05@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maria-eduarda-nascimento-correia-01b8541a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaeduardaaBr&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaaBr&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Maria Eduarda! A student passionate about technology from Brazil, be very welcome :).
+
+  - 🌱 Computer Engineering Student Vale do Paraíba University | Computer Technician />
+
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 18 years old, I am 18 years old and currently live in Brazil. I am organized, creative and fascinated by new learning. Always looking to acquire and share new knowledge about the world of technology.
+
+  -  began my knowledge in technology with a 3-year course in high school presenting computer programming, computer systems and networks, with an emphasis on software development in areas such as desktop or web. It includes school projects and teamwork, and covers Full-Stack, covering Frontend, Backend and Database, both relational and non-relational. The course requires a mandatory internship to receive the IT Technician certificate. \o/
+</details>
+
+<!-- Links -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudawfx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-nascimento-correia-01b8541a7/)
+
+
+<!-- GithubStats -->
+![marieduardaaBr GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaeduardaaBr&show_icons=true&theme=gotham)
 
 
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariaeduardaaBr&bg_color=000000&color=e391ae&line=b865b1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
 #
 
