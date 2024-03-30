@@ -18,7 +18,7 @@
 
   - 💬 I am 18 years old, I am 18 years old and currently live in Brazil. I am organized, creative and fascinated by new learning. Always looking to acquire and share new knowledge about the world of technology.
 
-  -  began my knowledge in technology with a 3-year course in high school presenting computer programming, computer systems and networks, with an emphasis on software development in areas such as desktop or web. It includes school projects and teamwork, and covers Full-Stack, covering Frontend, Backend and Database, both relational and non-relational. The course requires a mandatory internship to receive the IT Technician certificate. \o/
+  -  began my knowledge in technology with a 3-year course in high school presenting computer programming, computer systems and networks, with an emphasis on software development in areas such as desktop or web. It includes school projects and teamwork, and covers Full-Stack, covering Frontend, Backend and Database, both relational and non-relational. The course requires a mandatory internship to receive the IT Technician certificate. 
 </details>
 
 <!-- Links -->
