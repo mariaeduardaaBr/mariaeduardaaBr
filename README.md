@@ -1,34 +1,23 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Maria Eduarda! A student passionate about technology from Brazil, be very welcome :).
-
-  - 🌱 Computer Engineering Student Vale do Paraíba University | Computer Technician />
-
-</p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 18 years old, I am 18 years old and currently live in Brazil. I am organized, creative and fascinated by new learning. Always looking to acquire and share new knowledge about the world of technology.
-
-  -  began my knowledge in technology with a 3-year course in high school presenting computer programming, computer systems and networks, with an emphasis on software development in areas such as desktop or web. It includes school projects and teamwork, and covers Full-Stack, covering Frontend, Backend and Database, both relational and non-relational. The course requires a mandatory internship to receive the IT Technician certificate. 
-</details>
-
-<!-- Links -->
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudawfx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-nascimento-correia-01b8541a7/)
-
-
+# 👋 Hi, I'm Maria Eduarda!
+👩🏻‍💻 Computer Engineering Student sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Study [Computer Engineering] at the University of Vale do Paraíba, Brazil<br/>
+🌷 Passionate about technology, always looking to acquire and share new knowledge<br/>
 <!-- GithubStats -->
-![marieduardaaBr GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaeduardaaBr&show_icons=true&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=mariaeduardaaBr&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 
@@ -39,5 +28,8 @@
 
 
 
-#
+
+
+
+
 
